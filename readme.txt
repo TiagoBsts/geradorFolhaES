@@ -1,0 +1,5 @@
+Esta aplicação é um complemento do QGIS (plugin), com a finalidade do usuário obter um arquivo, no formato PDF, de uma folha topográfica na escala 1:100.000, gerada automaticamente a partir dos dados da Base Cartográfica Contínua do Estado do Espírito Santo (BC100/ES), produzida e disponibilizada pelo Instituto Brasileiro de Geografia e Estatística (IBGE) e disponibilizada em 2018. 
+
+É preciso salientar que a folha topográfica gerada ao final do uso desta aplicação não pode ser considerada um documento oficial. Trate-se de um trabalho elaborado durante a disciplina de Desenvolvimento de Aplicações Geoespaciais do Programa de Pós-Graduação em Ciências Geodésicas da Universidade Federal do Paraná. 
+
+Para que o plugin Gerador de Carta/Folha possa rodar corretamente no QGIS, é indispensável que a pasta CartaEditorada_ES seja guardada no drive c:/, e a pasta gerador_carta dentro da pasta de plugins do QGIS. 
